@@ -10,8 +10,6 @@ tags:
 
 Esta es una aplicación de [Flask](https://flask.palletsprojects.com/en/1.1.x/) que sirve una simple respuesta JSON.
 
-[![Desplegar en Railway](https://railway.app/button.svg)](https://railway.app/new/template/zUcpux)
-
 ## ✨ Características
 
 - Python

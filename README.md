@@ -17,5 +17,5 @@ Esta es una aplicación de [Flask](https://flask.palletsprojects.com/en/1.1.x/) 
 
 ## 💁‍♀️ Cómo usar
 
-- Instala los requisitos de Python `pip install -r requirements.txt`
-- Inicia el servidor para desarrollo `python3 main.py`
+- Instala los requisitos de Python **pip install -r requirements.txt**
+- Inicia el servidor para desarrollo **python3 main.py**
